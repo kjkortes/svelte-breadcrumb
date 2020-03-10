@@ -1,6 +1,6 @@
 {
   "name": "svelte-breadcrumb",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A Svelte Dynamic Breadcrumb Component",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
